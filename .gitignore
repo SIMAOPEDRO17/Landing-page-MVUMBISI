@@ -1,0 +1,10 @@
+# Ignorar pastas e arquivos grandes ou desnecessários
+node_modules/
+dist/
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+# Adicione abaixo o nome da pasta grande que não deve subir
+# exemplo:
+# pasta_grande/
